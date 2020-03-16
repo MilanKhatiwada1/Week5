@@ -1,0 +1,36 @@
+#logo { 
+	height:90px;
+}
+.header_div1 {
+	display: inline-block;
+	margin-left: 0%;
+	padding-top: 2%
+}
+.header_div2{
+	display: inline-block;
+	font-family: sans-serif; 
+	float: right;	
+	padding-top: 5%;
+}
+
+.search {
+	display: inline-block;
+	padding-top: 3%;
+	margin-top: 20px;
+	
+
+}
+aside {
+	display: inline-block;
+}
+ul {
+	list-style-type: none;
+}
+ol {
+	list-style-type: none;
+	padding-left: 2px;
+}
+.first{
+	padding-left: 2%;
+
+}
